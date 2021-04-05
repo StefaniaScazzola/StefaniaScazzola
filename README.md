@@ -1,6 +1,9 @@
 
 <h1 align="center">Hello there! I'm Stefania! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+
 <h3 align="center">🚀 Scrum Master | Business Analyst | System Analyst | Traineer Front End Developer  🚀</h3>
+<br>
+</br>
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 
