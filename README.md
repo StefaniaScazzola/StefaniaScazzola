@@ -16,7 +16,7 @@
 <br>
 </br>
 
-### 📫🤝🏻 Connect with Me
+### 📫🤝🏻 How to reach Me ⤵
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/stefania-scazzola-686329a5/) 
  - Shoot Me an 💌 [Email](mailto:stefaniascazzola@gmail.com) 
