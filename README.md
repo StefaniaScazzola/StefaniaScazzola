@@ -11,7 +11,7 @@
   - 🤓 &nbsp; I'm currently learning Javascript, HTML5, CSS, Boostrap, Node Js.
   - 🎓 &nbsp; I'm a System Analyst and Scrum Master certified.
   - 💼 &nbsp; I’m currently working on health software project at Tips Salud.
-  - 🌱 &nbsp; I'm looking for opportunities. I love to learn and contribute in any and every possible way.
+  - 🌱 &nbsp; I'm looking for new opportunities. I love to learn and contribute in any and every possible way.
   - 🙋‍♀️ &nbsp; Passionate for rollplays 🎲, J. R. R. Tolkien 📚 and the enviropment 🐳🌳.
 </div> 
 </div>
