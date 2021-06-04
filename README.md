@@ -9,7 +9,7 @@
   <h3> 👩‍💻 About Me </h3>
 
   - 🤓 &nbsp; I'm currently learning Javascript, HTML5, CSS, Boostrap, Node Js.
-  - 🎓 &nbsp; I'm a System Analyst and Scrum Master Certified. Currently taking the Certified Tech Developer, thinking by Mercado Libre and Globant and dictated by Digital House.
+  - 🎓 &nbsp; I'm a System Analyst and Scrum Master Certified. Currently, I'm dedicated to learning and to get better about agile methodologies and project management.
   - 💼 &nbsp; I’m currently working on health software project at Tips Salud.
   - 🌱 &nbsp; I'm looking for new opportunities. I love to learn and contribute in any and every possible way.
   - 🙋‍♀️ &nbsp; Passionate for rollplays 🎲, J. R. R. Tolkien 📚 and the enviropment 🐳🌳.
